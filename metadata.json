@@ -1,0 +1,8 @@
+{
+  "name": "Solaris",
+  "description": "Uma rede social vibrante e calorosa para a nova geração. Conecte-se, compartilhe e brilhe.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
